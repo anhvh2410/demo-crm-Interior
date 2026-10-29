@@ -7,3 +7,5 @@ Trang dùng thử Nice Life CRM (phần mềm quản lý khách hàng, bán hàn
 - Không kết nối máy chủ CRM thật, không chứa dữ liệu khách hàng thật.
 
 Repo này chỉ chứa bản build. Dựng lại từ mã nguồn (repo riêng tư): `npm run build:pages`, rồi chép `web/dist-pages/{index.html, icon.svg, .nojekyll}` vào đây.
+
+Bản hiện tại dựng từ `crm-interior` commit `225f9a3` (29/10/2026).
