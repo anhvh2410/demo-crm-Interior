@@ -1,6 +1,6 @@
 # Nice Life CRM — bản dùng thử
 
-Trang dùng thử Nice Life CRM (phần mềm quản lý khách hàng, bán hàng, sản xuất và lắp đặt nội thất): https://anhvh2410.github.io/demo-crm-Interior/
+Trang dùng thử Nice Life CRM (phần mềm quản lý khách hàng, bán hàng, sản xuất và lắp đặt nội thất): https://anhvh2410.github.io/demo-crm-interior/
 
 - Chọn một vai trò (Giám đốc, kinh doanh, kỹ thuật, xưởng…) để xem phần mềm từ góc nhìn người đó.
 - Toàn bộ là **dữ liệu mẫu**, chạy hoàn toàn trong trình duyệt; thay đổi chỉ lưu trên máy người xem, bấm *Khôi phục dữ liệu mẫu* để làm lại từ đầu.
